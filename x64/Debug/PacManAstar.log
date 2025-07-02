@@ -1,0 +1,187 @@
+﻿  ActorState.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  Animation.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(12,18): warning C4244:  '=': conversion from 'float' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(12,18): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(12,18): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(12,18): warning C4244:             T=int
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(12,18): warning C4244:         ]
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(13,19): warning C4244:  '=': conversion from 'float' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(13,19): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(13,19): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(13,19): warning C4244:             T=int
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(13,19): warning C4244:         ]
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(36,20): warning C4018:  '>': signed/unsigned mismatch
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(54,20): warning C4018:  '>': signed/unsigned mismatch
+  Blinky.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Animation.cpp(98,22): warning C4018:  '>=': signed/unsigned mismatch
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,113): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,113): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,113): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,113): warning C4244:             T=float
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,113): warning C4244:         ]
+  Chase.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,59): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,59): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,59): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,59): warning C4244:             T=float
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Blinky.cpp(99,59): warning C4244:         ]
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  Clyde.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Eaten.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Clyde.h(31,33): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  Frighten.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Fruit.cpp
+  Game.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Frighten.cpp(83,37): warning C4305:  '=': truncation from 'double' to 'float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  GameState.cpp
+  Ghost.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Clyde.h(31,33): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  GhostGameOver.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  GhostHouse.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Inky.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\GhostHouse.cpp(137,38): warning C4305:  '=': truncation from 'double' to 'float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  LevelVariables.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\LevelVariables.cpp(6,11): warning C4244:  'return': conversion from 'float' to 'unsigned short', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Map.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Clyde.h(31,33): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.cpp(279,79): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.cpp(279,61): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Pacman.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Clyde.h(31,33): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(167,28): warning C4244:  '=': conversion from 'float' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(167,28): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(167,28): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(167,28): warning C4244:             T=int
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(167,28): warning C4244:         ]
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(168,29): warning C4244:  '=': conversion from 'float' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(168,29): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(168,29): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(168,29): warning C4244:             T=int
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(168,29): warning C4244:         ]
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(190,28): warning C4244:  '=': conversion from 'float' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(190,28): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(190,28): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(190,28): warning C4244:             T=int
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(190,28): warning C4244:         ]
+  Pinky.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(191,29): warning C4244:  '=': conversion from 'float' to 'T', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(191,29): warning C4244:         with
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(191,29): warning C4244:         [
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(191,29): warning C4244:             T=int
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Pacman.cpp(191,29): warning C4244:         ]
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  Generating Code...
+  Compiling...
+  Playing.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Scatter.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Clyde.h(31,33): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  Tunneling.cpp
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,64): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Map.h(109,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(35,40): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(50,1): warning C4150:  deletion of pointer to incomplete type 'ActorState'; no destructor called
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(9): message :  see declaration of 'ActorState'
+  Generating Code...
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Ghost.h(132,14): warning C4244: C:\MI\Harmadik\Program\PacManAstar\PacManAstar\Playing.cpp(284) : warning C4715: 'Playing::GetCurrentHighScore': not all control paths return a value
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
