@@ -4,6 +4,15 @@
 
 ---
 
+### 🖼️ Gameplay Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04cd122c-a4b0-482a-8c1f-56f2e28af412" width="45%" />
+  <img src="https://github.com/user-attachments/assets/308ddb58-4d5e-44a7-b790-63503e1acfb4" width="45%" />
+</p>
+
+
+
 ## 🎮 Features
 
 ### 🕹 Classic Gameplay
