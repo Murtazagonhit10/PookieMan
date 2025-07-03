@@ -1,18 +1,25 @@
 #include "Menu.h"
 #include "Playing.h"
 
-Menu::Menu() : menuElemPlayClassic(0, &menuElemPlayNearVersion, &menuElemQuit), menuElemPlayNearVersion(1, &menuElemQuit, &menuElemPlayClassic),menuElemQuit(2, &menuElemPlayClassic, &menuElemPlayNearVersion){
+Menu::Menu() : menuElemPlayClassic(0, &menuElemPlayNearVersion, &menuElemQuit), menuElemPlayNearVersion(1, &menuElemQuit, &menuElemPlayClassic), menuElemQuit(2, &menuElemPlayClassic, &menuElemPlayNearVersion) {
 	cout << "Menu consted" << endl;
 
 	menuElemPlayClassic.text.setFont(font);
-	menuElemPlayClassic.text.setString("      1. Play PookieMan");
+	menuElemPlayClassic.text.setString("1. Play with Blinky & Inky");
 	menuElemPlayClassic.text.setFillColor(Color::Yellow);
 	menuElemPlayClassic.text.setCharacterSize(24);
-	menuElemPlayClassic.text.setPosition(100,200);
+	menuElemPlayClassic.text.setPosition(100, 200);
 	menuElemPlayClassic.text.setLetterSpacing(2);
 
+	menuElemPlayNearVersion.text.setFont(font);
+	menuElemPlayNearVersion.text.setString("2. Play with Luxy & Darky");
+	menuElemPlayNearVersion.text.setFillColor(Color::White);
+	menuElemPlayNearVersion.text.setCharacterSize(24);
+	menuElemPlayNearVersion.text.setPosition(110, 270);
+	menuElemPlayNearVersion.text.setLetterSpacing(2);
+
 	menuElemQuit.text.setFont(font);
-	menuElemQuit.text.setString("2. Quit");
+	menuElemQuit.text.setString("3. Quit");
 	menuElemQuit.text.setFillColor(Color::White);
 	menuElemQuit.text.setCharacterSize(24);
 	menuElemQuit.text.setPosition(280, 340);
@@ -25,12 +32,12 @@ Menu::Menu() : menuElemPlayClassic(0, &menuElemPlayNearVersion, &menuElemQuit), 
 	DescriptionText.setString("                                Short description:\n\n      Pac-Man 1980 PC videogame fan recreation by Near.\n                        Play the original Pac-Man game\n            with the original characters 1st menu point.\n                Or you could get to know two new ghosts\n                         Luxy and Darky 2nd menu point.\n                  You control pacman with the cursors.\n                                         Have fun.");
 
 	temp = &menuElemPlayClassic;
-	
+
 }
 
 Menu::~Menu()
 {
-	cout << "Menu deleted"<<endl;
+	cout << "Menu deleted" << endl;
 }
 
 GameState* Menu::Update(RenderWindow& window)
@@ -76,8 +83,8 @@ GameState* Menu::Update(RenderWindow& window)
 			return NULL;
 		}
 	}
-	
-	if(window.isOpen())
+
+	if (window.isOpen())
 		Render(window);
 
 	return NULL;
