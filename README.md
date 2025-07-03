@@ -1,30 +1,72 @@
-# Pacman
-Pacman re-implementation in C++ using SFML from scratch.
+# 👾 PookieMan — A Modern Pac-Man Clone in C++
 
-Purpose:
+**PookieMan** is a fully-featured Pac-Man remake built in **C++** using **SFML**, developed in **Visual Studio**. It includes smart ghost AI, a modular game architecture, full sound integration, and a polished retro arcade experience.
 
-I made this software with practicing and educational purposes only. I do not intend to make any money with my work.
-As in this time I am a beginner programmer the code is not the best work you will ever see.
-There are some complex logic and hard coded parts with magic numbers that will not tell much for you.
+---
 
-The software:
+## 🎮 Features
 
-I used C++ standard and SFML libraries only. It is a console application 680x900 Window mode and 60 FPS. There are two simple game states a Menu and a Playing state.
-You can choose from two game modes in the menu, the original Pacman version and an another one that has 2 new ghosts created by me.
-In the original version I tried to implement the exact same original logic based on the "Pacman dossier" - google for it.
-I see the biggest difference between my implementation and the original in the speed of pacman and the ghosts and I did not know the exact timing for when a fruit appears so I tried to count it manually from gameplay videos.
+### 🕹 Classic Gameplay
+- Smooth Pac-Man movement on a tile grid
+- Pellet and power-pellet mechanics
+- Full win and game over conditions
+- Pause, resume, and death animations
 
-The two new ghosts are Luxy (the shiney one) and Darky (the dark(y) one).
-How they work: Luxy likes where its dark, Darky likes to go towards shiney things. The rest you should find out by yourself (^^)
+### 👻 Custom Ghosts
+- Classic ghosts: Blinky, Inky, Pinky, Clyde
+- Custom ghosts: Luxy & Darky with unique behavior
+- State-based AI: Chase, Scatter, Frighten, Eaten
+- A* pathfinding system for intelligent movement
 
-I used the original Pacman textures, some of them I drew it by myself using "pixeldraw online".
-I got the original sounds from youtube.
+### 🍓 Fruit System
+- Fruit spawns based on progress
+- Bonus score collection
+- 8 fruit levels, each with different textures
 
-Every file that I used for the project sounds, textures, fonts are published.
+### 🔊 Sound System
+- Waka-waka pellet sound
+- Frighten, eaten, intro, level-up audio
+- Dynamic background music that changes with gameplay
 
-Video about the result: https://www.youtube.com/watch?v=cMhmSmINeR0
+### 🧩 Code Structure
+- Object-oriented design with clear headers/source files
+- Modular ghost logic and game state transitions
+- Pathfinding, pellet handling, fruit logic, animation, and ghost house control
 
-Hope you enjoy it,
-have fun.
+---
 
-@Near
+## 🚀 How to Run
+
+### ✅ Requirements
+- Visual Studio 2019 or later
+- SFML library properly configured
+- C++17 or higher
+- Windows OS
+
+### ▶️ Run the Game
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/yourusername/PookieMan.git
+```
+
+# 🎓 Learning Highlights
+Advanced use of SFML for graphics, audio, and window management
+
+A pathfinding* implementation for ghosts
+
+Collision detection and AI state switching
+
+Real-time audio control
+
+Sprite and animation handling
+
+Game state transitions via polymorphism
+
+# ✍️ Author
+👨‍💻 Ghulam Murtaza Hannan Khan Hassan Shakil
+🎓 FAST NUCES
+🧠 Passionate about game development, AI logic, and systems programming.
+
+
